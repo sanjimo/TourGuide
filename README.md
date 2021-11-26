@@ -1,6 +1,8 @@
 # TourGuide
 
 ##### Live Site Link [TourGuide](https://tourism-website-788fa.web.app/).
+##### Client Side Repo Link [ClientSide](https://github.com/sanjimo/TourGuide).
+##### Server Side Repo Link [ServerSide](https://github.com/sanjimo/TourGuide-Server-Side).
 
 ## Short Information About **TourGuide**
 
@@ -9,6 +11,12 @@ In 2015, Famous Traveler **MD. AM Hosain** started his first tour buisness **Tou
 
 
 ##### Some Features & Functionalities are below down
+
+- Authenticated users are allowed to perform CRUD operations.
+
+- Used Firebase for Google Authentication and deploying.
+
+- Utilized MERN, Javascript, React Bootstrap, React Router, Heroku.
 
 - We provide both online & offline services & guidelines.
 
